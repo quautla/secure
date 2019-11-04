@@ -1,0 +1,20 @@
+{
+    "ignition": {
+      "config": {},
+      "timeouts": {},
+      "version": "2.1.0"
+    },
+    "networkd": {},
+    "passwd": {
+      "users": [
+        {
+          "name": "core",
+          "sshAuthorizedKeys": [
+            "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAyX+1yJAjHZ1fBQeWyjpU4KE7tx7b33zHGHopAtCRi7d7Zf39HQWS1d3deSsR8QpiTcERTiVav6qlOF9X/s4bCOdCgQX2FlZcHr94IHddM1r9+lRrN/OhUyrZE3DkDZ4laPJSwddyRm22k94Xo0m82ykjBw8H8XveWOMABiFrCgqse2oAshTY4RiWh+ZqLwOQXvveSgI1c90y3leLJ8Y+3Zm4yZcImoAgYOnu8KQkED4cCMm8cWMJNwkwuS3SvREBoz3E5cL7H7g3y6NAaZkUDmSeAtCRFszqI3CtM0ICEvxjnSChmJnuh/KR4TCH9YobbbTymufklMOB7ltWa7xYyw== rsa-key-20191103"
+          ]
+        }
+      ]
+    },
+    "storage": {},
+    "systemd": {}
+}
